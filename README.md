@@ -31,7 +31,7 @@ To contribute or run the plugin locally:
 
 ## :newspaper: License and Attribution
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPLv3. See the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
